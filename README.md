@@ -20,7 +20,8 @@ Name of human studies training course completed:
 - Supervisor's email address*:
 - Supervisor's title*:
 (\* information required for students and postdocs)
-General research area for which the data will be used:
+- General research area for which the data will be used:
 
 - Date of this agreement:
 - [ ] I have attached a certificate of completion of a human subjects protections course (e.g., CITI Program's "Data or Specimens Only Research" course, linked [here](https://about.citiprogram.org/))
+- [ ] I have read through and agree to abide by the LICENSE and data usage agreement.
